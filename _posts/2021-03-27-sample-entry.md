@@ -10,10 +10,15 @@ tags:
   - Nature
 ---
 
+{% capture fig_img %}
+![cattail](https://gooseberry.github.io/photo-challenge/assets/images/cattail.jpg)
+{% endcapture %}
+
 This is a sample post I've added to the site to give an idea of what the final product will look like.
 
-![cattail](https://gooseberry.github.io/photo-challenge/assets/images/cattail.jpg)
-
-*cattail in the sun*
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>Cattail in the sun.</figcaption>
+</figure>
 
 Hidden under layers of snow durring the winter months, this cattail was found near the Ottawa river while the last remnants of snow and ice still cling to the plant.
