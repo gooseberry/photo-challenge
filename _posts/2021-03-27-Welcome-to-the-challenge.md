@@ -1,6 +1,7 @@
 ---
 title: "Welcome to the challenge!"
 date: 2021-03-27T14:40:30-04:00
+author: Eric
 categories:
   - rules
 tags:
