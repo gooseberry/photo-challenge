@@ -56,7 +56,7 @@ plugins:
 author:
   name   : "Challengers"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "These two individuals are going head-to-head to on this photo challenge."
+  bio    : "Photos submitted by:"
   links:
     - label: "Eric.Desgroseilliers"
       icon: "fab fa-fw fa-instagram"
