@@ -12,7 +12,7 @@ tags:
 
 This is a sample post I've added to the site to give an idea of what the final product will look like.
 
-![cattail](/assets/images/cattail.jpg)
+![cattail](https://gooseberry.github.io/photo-challenge/assets/images/cattail.jpg)
 
 *cattail in the sun*
 
