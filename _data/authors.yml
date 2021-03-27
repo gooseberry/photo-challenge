@@ -1,0 +1,20 @@
+Eric Desgroseilliers:
+  name        : "Eric Desgroseilliers"
+  bio         : "This guy."
+  avatar      : "/assets/images/bio-photo-eric.jpg"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://gooseberry.github.io/photo-challenge/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/eric.desgroseilliers/"
+
+Carol:
+  name        : "Carol"
+  bio         : "You know...stuff."
+  avatar      : "/assets/images/bio-photo-carol.jpg"
+  links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/cmtownson/"
