@@ -58,7 +58,7 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Photos submitted by:"
   links:
-    - label: "Eric.Desgroseilliers"
+    - label: "eric.desgroseilliers"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/eric.desgroseilliers/"
     - label: "cmtownson"
