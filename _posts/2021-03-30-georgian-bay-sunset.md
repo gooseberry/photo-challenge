@@ -3,14 +3,14 @@ title: "Georgian Bay Sunset"
 date: 2021-03-30
 author: Carol
 categories:
--Carol
--photo
--test
-tags
--sunset
--Georgian Bay
--spring
--landscape
+  - Carol
+  - photo
+  - test
+tags:
+  - sunset
+  - Georgian Bay
+  - spring
+  - landscape
 ---
 Living on the water, I have gained such an appreciation for the beauty that surrounds us. This view will never grow old, no matter the season or what Mother Nature can throw at us!
 
